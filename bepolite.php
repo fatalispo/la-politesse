@@ -4,9 +4,13 @@
 
 	$age= 18;
 
-	      if($age<18);
-	      echo $bonjourj ;
+	      if($age<18)
+	      {
+	      	echo $bonjourj ;
+	      }
 
-	      else($age>=18);
-	      echo $bonjoura ;
+	      elseif ($age>=18) 
+	      {
+	      	echo $bonjoura ;
+	      };
 ?>
