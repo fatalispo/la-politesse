@@ -1,0 +1,2 @@
+# la-politesse
+Quelques automatismes
