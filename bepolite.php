@@ -9,7 +9,7 @@
 	      	echo $bonjourj ;
 	      }
 
-	      elseif ($age>=18) 
+	      else ($age>=18) 
 	      {
 	      	echo $bonjoura ;
 	      };
